@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning NodeJS, Java and React
 - 💬 Ask me about Java and SQL
 - ⚡ Fun fact: I love and hate Java at same time
-</br>
 
 ## 🛠️ &nbsp;Languages and Tools
 
