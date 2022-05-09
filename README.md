@@ -25,5 +25,7 @@
 ![Github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-## ![Github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;GitHub Stats
+</br>
+
+## ![Github](https://img.shields.io/badge/--05122A?style=flat&logo=github)&nbsp;GitHub Stats
 [![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeef-js)](https://github.com/jeef-js/github-readme-stats)
