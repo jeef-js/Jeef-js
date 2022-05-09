@@ -29,4 +29,4 @@
 
 ## ![Github](https://img.shields.io/badge/-05122A?style=flat&logo=github)&nbsp;GitHub Analytics
 
-[![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeef-js&show_icons=true&theme=dracula)](https://github.com/jeef-js/github-readme-stats)
+[![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeef-js&show_icons=true&theme=tokyonight)](https://github.com/jeef-js/github-readme-stats)
