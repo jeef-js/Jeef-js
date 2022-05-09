@@ -2,8 +2,13 @@
 
 <h1 align="left">Hi there 👋, I'm Jefferson Thiago</h1>
 
+- 💻 Web full stack developer
 - 🌱 I’m currently learning NodeJS, Java and React
-- 
 - 💬 Ask me about Java and SQL
-- 
 - ⚡ Fun fact: I love and hate Java at same time
+
+</br>
+
+## 🛠️ &nbsp;Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
